@@ -56,6 +56,26 @@ These files contain the benchmark datasets used for evaluation and analysis.
 
 These figures summarize major findings from the project, including cross-benchmark performance trends, feature importance, and model-level robustness differences.
 
+## Figure Preview
+
+### Attention vs Learning Heatmap
+![Attention vs Learning Heatmap](attention_vs_learning_heatmap.png)
+
+### Noise Heatmap
+![Noise Heatmap](noise_heatmap.png)
+
+### Random Forest Feature Importance
+![Random Forest Feature Importance](rf_feature_importance.png)
+
+### Logistic Regression Coefficients
+![Logistic Regression Coefficients](logistic_coefficients.png)
+
+### Attention Model Accuracy
+![Attention Model Accuracy](attention_model_accuracy.png)
+
+### Learning Model Accuracy
+![Learning Model Accuracy](learning_model_accuracy.png)
+
 ## Methodology
 This project combines:
 - controlled benchmark generation
